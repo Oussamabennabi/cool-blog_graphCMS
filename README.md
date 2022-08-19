@@ -1,4 +1,4 @@
-## [Live Site Here](cool-blog-graph-inyqibmin-oussamabennabi.vercel.app)
+## [Live Site Here](https://cool-blog-graph-cms.vercel.app/)
 
 # Next.js + Tailwind CSS Example
 
